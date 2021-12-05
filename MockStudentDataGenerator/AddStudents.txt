@@ -1,0 +1,50 @@
+Student: 20127111 - Tran Du Tong
+    GPA=5.0, Telephone=0919-888-746
+    Email=ntphong@student.hcmus.edu.vn
+    DOB=07/10/2001
+    Address=District 3, Ho Chi Minh city
+Student: 20127112 - Mi Nuong
+    GPA=5,56, Telephone=0911-333-708
+    Email=ttha@student.hcmus.edu.vn
+    DOB=23/09/2003
+    Address=District 1, Ho Chi Minh city 
+Student: 20127113 - Nguyen Du
+    GPA=8.12, Telephone=0977-161-237
+    Email=ndu@student.hcmus.edu.vn
+    DOB=12/06/2002
+    Address=Bin Tan District, Ho Chi Minh city
+Student: 20127114 - Nguyen Trai
+    GPA=8.90, Telephone=0937-161-123
+    Email=ntrai@student.hcmus.edu.vn
+    DOB=12/06/2001
+    Address=Bin Thanh District, Ho Chi Minh city
+Student: 20127115 - Le Loi
+    GPA=9.12, Telephone=0999-161-456
+    Email=lloi@student.hcmus.edu.vn
+    DOB=25/12/2001
+    Address=District 5, Ho Chi Minh city
+Student: 20127116 - Ho Quy Ly
+    GPA=8.0, Telephone=0977-999-789
+    Email=hqly@student.hcmus.edu.vn
+    DOB=17/05/2001
+    Address=Binh Chanh District, Ho Chi Minh city
+Student: 20127117 - Bao Dai
+    GPA=3.65, Telephone=0919-155-276
+    Email=dthao@student.hcmus.edu.vn
+    DOB=11/11/2002
+    Address=District 1, Ho Chi Minh city
+Student: 20127118 - Kim trong
+    GPA=4.12, Telephone=0999-998-888
+    Email=Ktrong@student.hcmus.edu.vn
+    DOB=15/02/2002
+    Address=District 4, Ho Chi Minh city
+Student: 20127119 - Nguyen Hue
+    GPA=7.81, Telephone=0988-151-234
+    Email=nhue@student.hcmus.edu.vn
+    DOB=11/05/2000
+    Address=District 6, Ho Chi Minh city
+Student: 20127120 - Thuy Kieu
+    GPA=5.61, Telephone=0833-111-111
+    Email=tkieu@student.hcmus.edu.vn
+    DOB=02/06/2000
+    Address=District 3, Ho Chi Minh city

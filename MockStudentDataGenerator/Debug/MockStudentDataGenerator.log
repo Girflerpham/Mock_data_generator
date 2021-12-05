@@ -1,0 +1,13 @@
+﻿  ReadAndSaveFile.cpp
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\ReadAndSaveFile.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  School.cpp
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\RandomIntegerGenerator.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\School.cpp(4,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\School.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\School.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\School.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  main.cpp
+D:\Visual Studio\HK1_2\Lab\20127671\MockStudentDataGenerator\RandomIntegerGenerator.h(8,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  MockStudentDataGenerator.vcxproj -> D:\Visual Studio\HK1_2\Lab\20127671\Debug\MockStudentDataGenerator.exe
